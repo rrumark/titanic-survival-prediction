@@ -1,4 +1,6 @@
 # Titanic Survival Prediction
+![image](https://github.com/user-attachments/assets/58764873-edc7-4f98-8db7-5b9e8279ba1e)
+
 
 This project analyzes the survival of passengers aboard the Titanic using machine learning techniques. The main objective is to predict whether a passenger survived based on various features such as age, sex, and class.
 
